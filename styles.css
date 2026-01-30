@@ -23,7 +23,7 @@ body {
 
 body * {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    color: white;
+
 }
 
 #container {
@@ -88,4 +88,5 @@ footer {
     padding: 24px 0;
     text-align: center;
     font-size: 14px;
+
 }
